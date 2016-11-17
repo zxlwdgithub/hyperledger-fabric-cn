@@ -1,9 +1,11 @@
 # Incubation Notice
+# 孵化提示
 
 This project is a Hyperledger project in _Incubation_. It was proposed to the
 community and documented [here](https://goo.gl/RYQZ5N). Information on what
 _Incubation_ entails can be found in the [Hyperledger Project Lifecycle
 document](https://goo.gl/4edNRc).
+本项目是Hyperledger项目的孵化阶段社区提议和文档在这里
 
 [![Build Status](https://jenkins.hyperledger.org/buildStatus/icon?job=fabric-merge-x86_64)](https://jenkins.hyperledger.org/view/fabric/job/fabric-merge-x86_64/)
 [![Go Report Card](https://goreportcard.com/badge/github.com/hyperledger/fabric)](https://goreportcard.com/report/github.com/hyperledger/fabric)
